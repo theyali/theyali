@@ -29,7 +29,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - ![custom-message](https://img.shields.io/badge/Python-developer-blue)
-- ![custom-message](https://img.shields.io/badge/Django-developer-red) 
+- ![custom-message](https://img.shields.io/badge/Django-developer-yellow) 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
