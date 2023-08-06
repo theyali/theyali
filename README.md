@@ -1,6 +1,8 @@
-| :book: About Me | <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code GIF" width="300"> |
-| :-------------- | ------------------------------------------------------------ |
-| - 🖥 Software developer with bold ideas.                            | ![custom-message](https://img.shields.io/badge/Python-developer-blue) ![custom-message](https://img.shields.io/badge/Django-developer-yellow) |
+<p align="center">
+  | :book: About Me | <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code GIF" width="300"> |
+  | :-------------- | ------------------------------------------------------------ |
+  | - 🖥 Software developer with bold ideas.                            | ![custom-message](https://img.shields.io/badge/Python-developer-blue) ![custom-message](https://img.shields.io/badge/Django-developer-yellow) |
+</p>
 
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=theyali.theyali&color=00cf00)
