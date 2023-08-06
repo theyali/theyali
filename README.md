@@ -1,4 +1,4 @@
-[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif]
+![Code GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
