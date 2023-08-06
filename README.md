@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (They(ali| ali))" title="👋 Hi there! I'm (They(ali| ali))"/>]
+[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif]
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
