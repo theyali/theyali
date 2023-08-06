@@ -2,13 +2,14 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code GIF" width="300">
 </p>
 
+
+
+| :book: About Me | <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code GIF" width="300"> |
+| :-------------- | ------------------------------------------------------------ |
+| - 🖥 Software developer with bold ideas.                            | ![custom-message](https://img.shields.io/badge/Python-developer-blue) ![custom-message](https://img.shields.io/badge/Django-developer-yellow) |
+
+
 ![visitors](https://vbr.wocr.tk/badge?page_id=theyali.theyali&color=00cf00)
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- ![custom-message](https://img.shields.io/badge/Python-developer-blue)
-- ![custom-message](https://img.shields.io/badge/Django-developer-yellow) 
-
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
