@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on: Python Django project for my portfolio.<br>👯 I’m looking to collaborate on: Open-source projects related to web development.<br>🤝 I’m looking for help with: Improving my Django project's performance and scalability.<br>🌱 I’m currently learning: Flask, to expand my web development skills.<br>💬 Ask me about: My experience with Python, Django, or any other web technologies.
+🔭 I’m currently working on: Python Django project for my portfolio.<br>👯 I’m looking to collaborate on: Open-source projects related to web development.<br>🤝 I’m looking for help with: Improving my Django project's performance and scalability.<br>🌱 I’m currently learning: Flask, to expand my web development skills.<br>💬 Ask me about: My experience with Python, Django, or any other web technologies.<br>
+🟦🛠️🗺️ My projects: https://www.caspian-bavarians.com https://reen.az https://oilmart.az
 
 
 ## 🌐 Socials:
